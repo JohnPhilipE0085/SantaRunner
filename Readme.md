@@ -37,3 +37,9 @@ Screen short and Game play Video.
 ![s1](Project%20screenshorts/s1.png)
 ![s2](Project%20screenshorts/s2.png)
 ![s3](Project%20screenshorts/s3.png)
+
+
+
+Gameplay Video Link. (Audio is muted.)
+
+https://drive.google.com/file/d/1RvGsZxfxHrvA49VT0Qln131UgA0TdLH0/view?usp=drive_link
